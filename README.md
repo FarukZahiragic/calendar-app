@@ -1,2 +1,2 @@
-# CalculatorProjectC
-A calculator app made in C
+# CalendarProjectC
+A calendar app made in C
