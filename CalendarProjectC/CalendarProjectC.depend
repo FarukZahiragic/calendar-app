@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609535981 source:c:\users\faruk\desktop\c, c++\calendarprojectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
